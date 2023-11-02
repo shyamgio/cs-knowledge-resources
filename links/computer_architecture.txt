@@ -1,0 +1,8 @@
+Building a CPU from scratch (Video)
+https://www.youtube.com/watch?v=FSVhlqE7EgA&list=PLilenfQGj6CEG6iZ4TQJ10PI7pCWsy1AO&index=1
+
+Building a CPU from scratch (Source code)
+https://github.com/rj45/rj32
+
+Digital Logic Simulator Software
+https://github.com/hneemann/Digital

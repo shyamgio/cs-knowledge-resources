@@ -1,0 +1,5 @@
+Everything about HTTP
+https://developer.mozilla.org/en-US/docs/Web/HTTP
+
+Computer Networking : Principles, Protocols and Practice
+https://beta.computer-networking.info/syllabus/default/principles/reliability.html
